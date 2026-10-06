@@ -1,0 +1,6 @@
+[Unit]
+Description=Restore AI gamepad handlers after Starfall crashes
+
+[Service]
+Type=oneshot
+ExecStart=%h/.local/share/starfall/uconsole-guard.sh restore
