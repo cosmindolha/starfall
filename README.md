@@ -6,6 +6,8 @@ Fly through three sectors and defeat the three-phase Dreadnought. Collect shield
 
 ## Install on Omarchy or macOS
 
+A ready-to-play `starfall.love` cartridge is available on the [Releases page](https://github.com/cosmindolha/starfall/releases). Open it with LÖVE 11.5 on either platform, or use the installer below to add the game to your desktop.
+
 Download and unzip this repository, or clone it:
 
 ```sh
